@@ -1,0 +1,294 @@
+[
+    {
+        "data": {
+            "reharmonization":[
+                {
+                    "inversion":[
+                        {
+                            "roman":"I",
+                            "inversion":""
+                        },
+                        {
+                            "roman":"I",
+                            "inversion":"6"
+                        },
+                        {
+                            "roman":"I",
+                            "inversion":"46"
+                        }
+                    ],
+                    "extension":[
+                        {
+                            "roman":"IMaj7"
+                        },
+                        {
+                            "roman":"IMaj9"
+                        }
+                    ],
+                    "substitution":[
+                        {
+                            "roman":"iii"
+                        },
+                        {
+                            "roman":"iv"
+                        }
+                    ]
+                },
+                {
+                    "inversion":[
+                        {
+                            "roman":"ii",
+                            "inversion":""
+                        },
+                        {
+                            "roman":"ii",
+                            "inversion":"6"
+                        },
+                        {
+                            "roman":"ii",
+                            "inversion":"46"
+                        }
+                    ]
+                },
+                {
+                    "inversion":[
+                        {
+                            "roman":"iii",
+                            "inversion":""
+                        },
+                        {
+                            "roman":"iii",
+                            "inversion":"6"
+                        },
+                        {
+                            "roman":"iii",
+                            "inversion":"46"
+                        }
+                    ]
+                },
+                {
+                    "inversion":[
+                        {
+                            "roman":"IV",
+                            "inversion":""
+                        },
+                        {
+                            "roman":"IV",
+                            "inversion":"6"
+                        },
+                        {
+                            "roman":"IV",
+                            "inversion":"46"
+                        }
+                    ]
+                },
+                {
+                    "inversion":[
+                        {
+                            "roman":"V",
+                            "inversion":""
+                        },
+                        {
+                            "roman":"V",
+                            "inversion":"6"
+                        },
+                        {
+                            "roman":"V",
+                            "inversion":"46"
+                        }
+                    ]
+                },
+                {
+                    "inversion":[
+                        {
+                            "roman":"vi",
+                            "inversion":""
+                        },
+                        {
+                            "roman":"vi",
+                            "inversion":"6"
+                        },
+                        {
+                            "roman":"vi",
+                            "inversion":"46"
+                        }
+                    ]
+                },
+                {
+                    "inversion":[
+                        {
+                            "roman":"vii°",
+                            "inversion":""
+                        },
+                        {
+                            "roman":"vii°",
+                            "inversion":"6"
+                        },
+                        {
+                            "roman":"vii°",
+                            "inversion":"46"
+                        }
+                    ]
+                }
+            ],
+            "meta": {
+                "title": "Pyramiden",
+                "author": "kinderlieder"
+            },
+            "section": [
+                {
+                    "description": "Chorus",
+                    "key": {
+                        "note": "C",
+                        "mode": "Major"
+                    },
+                    "chord": [
+                        {
+                            "note": "C",
+                            "type": "",
+                            "bass": "R",
+                            "map": 1,
+                            "isdiatonic": true,
+                            "ispivot": false,
+                            "lyric":"come to me where the home is free",
+                            "roman": [
+                                {
+                                    "isselected": true,
+                                    "symbol": "I",
+                                    "inversion": "",
+                                    "map": 1,
+                                    "info": "diatonic triad chord",
+                                    "isdiatonic": true
+                                }
+                            ],
+                        },
+                        {
+                            "note": "E",
+                            "type": "m",
+                            "bass": "R",
+                            "map": 3,
+                            "isdiatonic": true,
+                            "ispivot": false,
+                            "lyric":"i am here and you are mine",
+                            "roman": [
+                                {
+                                    "isselected": true,
+                                    "symbol": "iii",
+                                    "inversion": "",
+                                    "map": 3,
+                                    "info": "diatonic triad chord",
+                                    "isdiatonic": true
+                                },
+                                {
+                                    "isselected": false,
+                                    "symbol": "ii/ii",
+                                    "inversion": "",
+                                    "map": 2,
+                                    "info": "secondary diatonic triad chord",
+                                    "isdiatonic": false
+                                },
+                                {
+                                    "isselected": false,
+                                    "symbol": "vi/V",
+                                    "inversion": "",
+                                    "map": 6,
+                                    "info": "secondary diatonic triad chord",
+                                    "isdiatonic": false
+                                },
+                                {
+                                    "isselected": false,
+                                    "symbol": "v/vi",
+                                    "inversion": "",
+                                    "map": 5,
+                                    "info": "secondary diatonic triad chord",
+                                    "isdiatonic": false
+                                }
+                            ]
+                        },
+                        {
+                            "note": "F",
+                            "type": "",
+                            "bass": "C",
+                            "map": 4,
+                            "isdiatonic": true,
+                            "ispivot": false,
+                            "lyric":"the world is far",
+                            "roman": [
+                                {
+                                    "isselected": true,
+                                    "symbol": "IV",
+                                    "inversion": "46",
+                                    "map": 4,
+                                    "info": "diatonic triad chord",
+                                    "isdiatonic": true
+                                }
+                            ]
+                        },
+                        {
+                            "note": "F",
+                            "type": "m",
+                            "bass": "R",
+                            "map": 4,
+                            "isdiatonic": false,
+                            "ispivot": false,
+                            "lyric":"in my arms",
+                            "roman": [
+                                {
+                                    "isselected": true,
+                                    "symbol": "iv",
+                                    "inversion": "",
+                                    "map": 4,
+                                    "info": "borrowed triad chord",
+                                    "isdiatonic": false
+                                }
+                            ]
+                        },
+                        {
+                            "note": "Bb",
+                            "type": "",
+                            "bass": "R",
+                            "map": -1,
+                            "isdiatonic": false,
+                            "ispivot": true,
+                            "lyric":"tonight",
+                            "roman": [
+                                {
+                                    "isselected": true,
+                                    "symbol": "bVII",
+                                    "inversion": "",
+                                    "map": -1,
+                                    "info": "borrowed triad chord",
+                                    "isdiatonic": false
+                                },
+                                {
+                                    "isselected": false,
+                                    "symbol": "VI/ii",
+                                    "inversion": "",
+                                    "map": 6,
+                                    "info": "secondary diatonic triad chord",
+                                    "isdiatonic": true
+                                },
+                                {
+                                    "isselected": false,
+                                    "symbol": "IV/IV",
+                                    "inversion": "",
+                                    "map": 4,
+                                    "info": "secondary diatonic triad chord",
+                                    "isdiatonic": true
+                                },
+                                {
+                                    "isselected": false,
+                                    "symbol": "N/vi",
+                                    "inversion": "",
+                                    "map": 4,
+                                    "info": "secondary neapolitan chord",
+                                    "isdiatonic": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
